@@ -53,7 +53,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://submissions.us-east-1.linodeobjects.com/web102/lttO1xII.gif](https://github.com/Hotragn/AstroDash--Data-Dashboard-Part-1/blob/main/recording-demo.gif)' title='Video Walkthrough' alt='Video Walkthrough' />
+<img href='[https://submissions.us-east-1.linodeobjects.com/web102/lttO1xII.gif](https://github.com/Hotragn/AstroDash--Data-Dashboard-Part-1/blob/main/recording-demo.gif)' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created
 
