@@ -55,7 +55,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://submissions.us-east-1.linodeobjects.com/web102/lttO1xII.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
-GIF created with **[Tool Name Here]**
+GIF created
 
 ## Notes
 
